@@ -1,6 +1,6 @@
-                                                         Hola 👋 soy Gabriel Perez
+### Hola 👋 soy Gabriel Perez
 ---
-                                                         Soy desarrollador Frontend
+### Soy desarrollador Frontend
 - 🌱 Actualmente aprendiendo Nodejs & Docker                                                        
 ### Contactame
 <a href="https://www.linkedin.com/in/gabrielperezpernia/">
